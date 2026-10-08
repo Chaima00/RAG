@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation (RAG) Demo
+# Retrieval-Augmented Generation (RAG)
 
 A Jupyter notebook demonstrating a basic Retrieval-Augmented Generation (RAG) workflow. It reads text from a car financing agreement, finds relevant passages for a user’s question, and asks a language model to answer using those passages as context.
 
