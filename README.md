@@ -26,21 +26,7 @@ A Jupyter notebook demonstrating a basic Retrieval-Augmented Generation (RAG) wo
 
 Install the Python packages:
 ```bash
-pip install numpy ollama ```
-
-Make sure Ollama is running and that both models are available to it before running the notebook. You can download them with:
-ollama pull hf.co/CompendiumLabs/bge-base-en-v1.5-gguf
-ollama pull hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF
-
-Run the notebook
-Clone or download this repository.
-Keep CAR FINANCING AGREEMENT.txt in the same working directory as the notebook.
-Start Jupyter and open RAG Model.ipynb.
-Run the notebook cells in order, then enter a question when prompted.
-Current limitations
-The notebook treats each line of the source text as a separate chunk; answers depend on how the source document is formatted.
-Retrieval uses cosine similarity and returns up to five chunks.
-The notebook uses a local Ollama installation, so model availability and performance depend on your machine.
+pip install numpy ollama 
 The notebook is a demonstration and does not include a web interface or persistent vector database.
 
 Privacy
