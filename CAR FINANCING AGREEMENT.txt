@@ -1,0 +1,17 @@
+BORROWER: Carlos Brown, residing at 1500 Brazil Avenue - Boston, MA, holder of SSN nº 360132173.
+LENDER: FINANCIAL BANK OF AMERICA Inc., registered under EIN nº 00-0000000, headquartered at 1000 Main Avenue, New York, NY.
+FINANCED AMOUNT: $82,437.00.
+CLAUSE ONE – PURPOSE: This agreement aims to grant financing to the BORROWER for the acquisition of the asset described in the preamble.
+CLAUSE TWO – TERM: The financing period shall be up to 60 months, unless otherwise agreed upon by the parties.
+CLAUSE THREE – PAYMENT: The BORROWER shall pay monthly installments, increased by interest of 1.2% per month and corrected annually by the Consumer Price Index (CPI).
+CLAUSE FOUR – GUARANTEES: The financed asset will remain under fiduciary lien in favor of the BANK until full settlement.
+CLAUSE FIVE – INSURANCE: The BORROWER must contract mandatory insurance for the financed asset, with minimum coverage as required by current legislation.
+CLAUSE SIX – DEFAULT: Payment delay will result in a penalty of 2% on the installment, late interest of 1% per month, and possible execution of the guarantee.
+CLAUSE SEVEN – TERMINATION: Breach of obligations will result in termination of the agreement and enforcement of the guarantees, regardless of notification.
+CLAUSE EIGHT – JURISDICTION: The parties elect the Courts of New York, NY, to settle any disputes arising from this agreement.
+
+New York, March 07, 2025
+
+Carlos Brown – BORROWER
+
+Representative – FINANCIAL BANK OF AMERICA (LENDER)
