@@ -27,7 +27,3 @@ A Jupyter notebook demonstrating a basic Retrieval-Augmented Generation (RAG) wo
 Install the Python packages:
 ```bash
 pip install numpy ollama 
-The notebook is a demonstration and does not include a web interface or persistent vector database.
-
-Privacy
-The notebook prints source text and retrieved passages in its output. Before publishing this repository, make sure the agreement and any saved notebook outputs are safe to share. Do not commit confidential documents or personal information. ``````
