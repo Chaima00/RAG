@@ -26,7 +26,7 @@ A Jupyter notebook demonstrating a basic Retrieval-Augmented Generation (RAG) wo
 
 Install the Python packages:
 ```bash
-pip install numpy ollama
+pip install numpy ollama ```
 
 Make sure Ollama is running and that both models are available to it before running the notebook. You can download them with:
 ollama pull hf.co/CompendiumLabs/bge-base-en-v1.5-gguf
