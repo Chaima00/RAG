@@ -47,15 +47,6 @@ jupyter notebook
 
 Open `RAG Model.ipynb` and run the cells in order. The notebook expects `CAR FINANCING AGREEMENT.txt` to be in the same directory.
 
-## Example questions
-
-- What is the financed amount?
-- What is the repayment term?
-- What are the penalties for late payment?
-- Who are the borrower and lender?
-
-The answer depends on the passages retrieved for the question. As with any language-model application, verify important answers against the original agreement.
-
 ## Privacy
 
 The notebook sends text and questions to the Ollama service configured in your environment. With a local Ollama instance, inference is performed locally; be mindful of the source document and your Ollama configuration when using sensitive data.
