@@ -1,0 +1,33 @@
+
+BORROWER: Jordan SMITH.
+LENDER: Northstar Credit Union, a fictional institution.
+VEHICLE: Fictional 2024 Sedan.
+FINANCED AMOUNT: $76,500.00.
+
+CLAUSE ONE – PURPOSE: The LENDER agrees to finance the BORROWER's purchase of the vehicle identified above.
+
+CLAUSE TWO – TERM: The loan term is 48 months, beginning on April 15, 2025.
+
+CLAUSE THREE – PAYMENT: The BORROWER shall make 47 monthly installments of $1,971.00 each, followed by a final installment equal to the remaining loan balance and accrued interest. The first installment is due April 15, 2025; each later installment is due on the 15th day of each month, with the final installment due March 15, 2029. The scheduled installment amount is fixed and is not adjusted by the Consumer Price Index (CPI).
+
+CLAUSE FOUR – INTEREST: Interest accrues at a fixed rate of 0.9% per month. The fixed installment amount stated in CLAUSE THREE includes scheduled principal and interest. No additional interest-rate adjustment is specified in this agreement.
+
+CLAUSE FIVE – EARLY PAYMENT: The BORROWER may pay all or part of the outstanding balance early without an early-payment fee.
+
+CLAUSE SIX – GUARANTEE: The vehicle will remain subject to a security interest in favor of the LENDER until the loan is fully paid.
+
+CLAUSE SEVEN – INSURANCE: The BORROWER is responsible for maintaining vehicle insurance. This agreement does not specify a minimum coverage amount.
+
+CLAUSE EIGHT – LATE PAYMENT: An installment more than 10 calendar days late incurs a one-time late fee of $35.00. The agreement does not specify a separate monthly late-interest rate.
+
+CLAUSE NINE – DEFAULT AND NOTICE: If the BORROWER fails to pay an amount due, the LENDER must provide written notice and allow 15 calendar days to cure the default before pursuing remedies permitted by the agreement and applicable law.
+
+CLAUSE TEN – TERMINATION: The loan is satisfied when all amounts due have been paid. The agreement does not specify any other termination procedure.
+
+CLAUSE ELEVEN – GOVERNING LAW AND VENUE: This agreement is governed by the laws of the fictional State of Northstar. Any permitted court proceeding shall take place in the fictional County of Sample.
+
+Northstar, April 01, 2025
+
+Jordan SMITH – BORROWER
+
+Representative – NORTHSTAR CREDIT UNION (LENDER)
