@@ -23,6 +23,7 @@ A Jupyter notebook demonstrating a basic Retrieval-Augmented Generation (RAG) wo
 - The models used by the notebook:
   - `hf.co/CompendiumLabs/bge-base-en-v1.5-gguf` — embeddings
   - `hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF` — responses
+  - `qwen2.5:3b` — comparison
 
 Install the Python packages:
 
@@ -35,6 +36,7 @@ Make sure both models are available to Ollama. Start Ollama, then pull either mo
 ```bash
 ollama pull hf.co/CompendiumLabs/bge-base-en-v1.5-gguf
 ollama pull hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF
+ollama pull qwen2.5:3b
 ```
 
 ## Run the notebook
@@ -45,7 +47,7 @@ From the project directory, start Jupyter:
 jupyter notebook
 ```
 
-Open `RAG Model.ipynb` and run the cells in order. The notebook expects `CAR FINANCING AGREEMENT.txt` to be in the same directory.
+Open `RAG Model.ipynb` and run the cells in order. The notebook expects `CAR FINANCING AGREEMENT.txt` and `CAR FINANCING AGREEMENT - COMPARISON.txt` to be in the same directory.
 
 ## Privacy
 
